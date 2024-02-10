@@ -1,0 +1,72 @@
+body {
+    background-color: #F7ECE8;
+}
+
+#enhanced {
+    color: mediumvioletred;
+    font-family: Impact;
+    font-size: 36px;
+    text-transform: uppercase;
+    line-height: 0.25;
+    letter-spacing: 0.2em;
+}
+
+#clear {
+    color: brown;
+    font-family: sans-serif;
+    font-size: 72px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    line-height: 0.25;
+    text-shadow: 1px 1px 6px #111111;
+}
+
+#quote {
+    color: rgb(243, 103, 150);
+    font-family: cursive;
+
+}
+
+#heading,
+#enhanced,
+#clear,
+#quote {
+    text-align: center;
+}
+
+#top {
+    background-color: #fdccb6;
+}
+
+#underline {
+    text-decoration: underline;
+}
+
+a:link {
+    color: rgb(241, 26, 98);
+}
+
+a:visited {
+    color: brown;
+}
+
+a:hover {
+    color: darkolivegreen;
+    text-decoration: underline;
+}
+
+.mainhead {
+    color: brown;
+    text-align: center;
+    text-decoration: underline;
+    font-family: serif;
+}
+
+.subheading {
+    color: rgb(244, 70, 128);
+}
+
+#heading {
+    font-style: normal;
+    font-weight: 500px;
+}
